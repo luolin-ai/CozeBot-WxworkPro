@@ -1,2 +1,121 @@
 # CozeBot-WxworkPro
-CozeBot-WxworkPro æ˜¯ä¸€ä¸ªé›†æˆäº†AIåº”ç”¨å¼€å‘å¹³å°â€œæ‰£å­â€çš„ä¼å¾®è„šæœ¬ï¼Œèƒ½å¤Ÿå¿«é€Ÿæž„å»ºåŸºäºŽå¤§æ¨¡åž‹çš„å„ç§Botï¼Œè‡ªåŠ¨å¤„ç†ä¼ä¸šå¾®ä¿¡ä¸­çš„æ¶ˆæ¯ï¼Œæé«˜å·¥ä½œæ•ˆçŽ‡ã€‚
+
+## Ä¿Â¼
+- [ÏîÄ¿¼ò½é](#ÏîÄ¿¼ò½é)
+- [¹¦ÄÜÓëÓÅÊÆ](#¹¦ÄÜÓëÓÅÊÆ)
+  - [Í¨¹ý¿Û×ÓÆ½Ì¨ÎÞÏÞÍØÕ¹µÄÄÜÁ¦¼¯](#Í¨¹ý¿Û×ÓÆ½Ì¨ÎÞÏÞÍØÕ¹µÄÄÜÁ¦¼¯)
+  - [·á¸»µÄÊý¾ÝÔ´](#·á¸»µÄÊý¾ÝÔ´)
+  - [³Ö¾Ã»¯µÄ¼ÇÒäÄÜÁ¦](#³Ö¾Ã»¯µÄ¼ÇÒäÄÜÁ¦)
+  - [Áé»îµÄ¿Û×Ó¹¤×÷Á÷¼¯³É](#Áé»îµÄ¿Û×Ó¹¤×÷Á÷¼¯³É)
+- [°²×°Ö¸ÄÏ](#°²×°Ö¸ÄÏ)
+- [Ê¹ÓÃËµÃ÷](#Ê¹ÓÃËµÃ÷)
+- [¹±Ï×Ö¸ÄÏ](#¹±Ï×Ö¸ÄÏ)
+- [Ðí¿ÉÖ¤](#Ðí¿ÉÖ¤)
+
+## ÏîÄ¿¼ò½é
+
+CozeBot-WxworkPro ÊÇÒ»¸ö¼¯³ÉÁËAIÓ¦ÓÃ¿ª·¢Æ½Ì¨¡°¿Û×Ó¡±µÄÆóÒµÎ¢ÐÅ½Å±¾£¬ÄÜ¹»¿ìËÙ¹¹½¨»ùÓÚ´óÄ£ÐÍµÄ¸÷ÖÖBot£¬×Ô¶¯´¦ÀíÆóÒµÎ¢ÐÅÖÐµÄÏûÏ¢£¬Ìá¸ß¹¤×÷Ð§ÂÊ¡£
+
+## ¹¦ÄÜÓëÓÅÊÆ
+
+### Í¨¹ý¿Û×ÓÆ½Ì¨ÎÞÏÞÍØÕ¹µÄÄÜÁ¦¼¯
+
+- **ÄÚÖÃ²å¼þ**£º¼¯³ÉÁË³¬¹ý60ÖÖ²å¼þ¹¤¾ß£¬°üÀ¨×ÊÑ¶ÔÄ¶Á¡¢ÂÃÓÎ³öÐÐ¡¢Ð§ÂÊ°ì¹«¡¢Í¼Æ¬Àí½âµÈ¡£±ÈÈç£¬Ê¹ÓÃÐÂÎÅ²å¼þ¿ÉÒÔ´òÔìÒ»¸öAIÐÂÎÅ²¥ÒôÔ±¡£
+- **×Ô¶¨Òå²å¼þ**£ºÖ§³Ö´´½¨×Ô¶¨Òå²å¼þ£¬½«ÒÑÓÐµÄAPIÄÜÁ¦Í¨¹ý²ÎÊýÅäÖÃ¿ìËÙ´´½¨²å¼þ¹©Botµ÷ÓÃ¡£
+
+### ·á¸»µÄÊý¾ÝÔ´
+
+- **ÖªÊ¶¿â**£ºÌá¹©¼òµ¥Ò×ÓÃµÄÖªÊ¶¿â¹¦ÄÜ¹ÜÀíºÍ´æ´¢Êý¾Ý£¬Ö§³ÖÎÄ±¾¡¢±í¸ñ¸ñÊ½µÄÊý¾ÝÉÏ´«£¬¿ÉÒÔ»ùÓÚURL»ñÈ¡ÔÚÏßÍøÒ³ÄÚÈÝºÍAPI JSONÊý¾Ý¡£
+
+### ³Ö¾Ã»¯µÄ¼ÇÒäÄÜÁ¦
+
+- **Êý¾Ý¿â¼ÇÒäÄÜÁ¦**£ºÖ§³Ö³Ö¾Ã¼Ç×¡ÓÃ»§¶Ô»°µÄÖØÒª²ÎÊý»òÄÚÈÝ£¬ÀýÈç£¬´´½¨Ò»¸öÊý¾Ý¿â¼ÇÂ¼ÔÄ¶Á±Ê¼Ç£¬°üÀ¨ÊéÃû¡¢ÔÄ¶Á½ø¶ÈºÍ¸öÈË×¢ÊÍ¡£
+
+### Áé»îµÄ¿Û×Ó¹¤×÷Á÷¼¯³É
+
+- **¹¤×÷Á÷¹¦ÄÜ**£º´¦ÀíÂß¼­¸´ÔÓÇÒÎÈ¶¨ÐÔÒªÇó¸ßµÄÈÎÎñÁ÷£¬°üÀ¨´óÓïÑÔÄ£ÐÍLLM¡¢×Ô¶¨Òå´úÂë¡¢ÅÐ¶ÏÂß¼­µÈ¡£ÀýÈç£¬´´½¨Ò»¸öËÑ¼¯µçÓ°ÆÀÂÛµÄ¹¤×÷Á÷»ò×«Ð´ÐÐÒµÑÐ¾¿±¨¸æµÄ¹¤×÷Á÷¡£
+
+## °²×°Ö¸ÄÏ
+
+1. ¿ËÂ¡±¾²Ö¿âµ½±¾µØ£º
+    ```bash
+    git clone https://github.com/yourusername/yourrepository.git
+    ```
+
+2. µÇÂ¼²¢´´½¨Ò»¸öBot£º
+
+    [![µÇÂ¼´´½¨Bot](tu/img_1.png)](https://www.coze.cn/)
+
+3. ½«´´½¨µÄBot·¢²¼£º
+
+    [![µã»÷·¢²¼](tu/img_2.png)](https://www.coze.cn/)
+
+4. ÔÚAPIÆ½Ì¨·¢²¼£º
+
+    ![·¢²¼APIÆ½Ì¨](tu/img_1.png)
+
+5. ÔÚAPIÒ³ÃæÌí¼ÓÁîÅÆ£¬½«ÁîÅÆ¸´ÖÆµ½`.env`ÎÄ¼þ£º
+
+    ![Ñ¡ÔñÌí¼ÓÁîÅÆ](img.png)
+
+6. ´´½¨²¢ÅäÖÃ `.env` ÎÄ¼þÒÔÉèÖÃ»·¾³±äÁ¿¡£ÔÚÏîÄ¿µÄ¸ùÄ¿Â¼´´½¨Ò»¸öÃûÎª `.env` µÄÎÄ¼þ£¬²¢Ìí¼ÓÒÔÏÂÄÚÈÝ£º
+    ```plaintext
+    # Coze API ·ÃÎÊËùÐèµÄÁîÅÆºÍ»úÆ÷ÈËID
+    COZE_PERSONAL_ACCESS_TOKEN=pat_X1vEBcFubKXxImZzt7q9mhoLIOoMJm9i6RBb23DZk0iZISw23SeRaKXWE7EfnK06
+    COZE_BOT_ID=7366723357951492159
+   
+    # ´¥·¢Bot»Ø¸´µÄ¹Ø¼ü´Ê
+    BOT_TRIGGER_WORD=@MyBot
+   
+    # ÔÊÐíµÄÈºÁÄ°×Ãûµ¥£¬ÒÔ¶ººÅ·Ö¸ôµÄÈºIDÁÐ±í
+    GROUP_CHAT_WHITELIST=your_group_chat_whitelist
+
+    # ÔÊÐíµÄË½ÁÄ°×Ãûµ¥£¬ÒÔ¶ººÅ·Ö¸ôµÄÓÃ»§IDÁÐ±í
+    PRIVATE_CHAT_WHITELIST=your_private_chat_whitelist
+
+    # ·Ç°×Ãûµ¥ÈºÁÄµÄÄ¬ÈÏÃ¿ÈÕ»¥¶¯´ÎÊýÏÞÖÆ
+    DEFAULT_GROUP_LIMIT=5
+
+    # ·Ç°×Ãûµ¥Ë½ÁÄµÄÄ¬ÈÏÃ¿ÈÕ»¥¶¯´ÎÊýÏÞÖÆ
+    DEFAULT_PRIVATE_LIMIT=5
+
+    # °×Ãûµ¥ÈºÁÄµÄÃ¿ÈÕ»¥¶¯´ÎÊýÏÞÖÆ
+    WHITELIST_GROUP_LIMIT=10
+
+    # °×Ãûµ¥Ë½ÁÄµÄÃ¿ÈÕ»¥¶¯´ÎÊýÏÞÖÆ
+    WHITELIST_PRIVATE_LIMIT=10
+    ```
+
+## Ê¹ÓÃËµÃ÷
+
+1. È·±£ `.env` ÎÄ¼þÒÑ¾­ÕýÈ·ÅäÖÃ²¢±£´æ¡£
+
+2. ÔËÐÐ `CozeBot-WxworkPro.exe` ³ÌÐò£º
+    ```bash
+    ./CozeBot-WxworkPro.exe
+    ```
+    
+3. ÔÚÆóÒµÎ¢ÐÅÖÐ£¬Ê¹ÓÃÖ¸¶¨µÄ´¥·¢´Ê£¨ÀýÈç`@MyBot`£©ÓëBot½øÐÐ½»»¥¡£
+
+## ¹±Ï×Ö¸ÄÏ
+
+»¶Ó­¶Ô±¾ÏîÄ¿½øÐÐ¹±Ï×£¡Çë×ñÑ­ÒÔÏÂ²½Öè£º
+
+1. Fork±¾²Ö¿â¡£
+2. ´´½¨Ò»¸öÐÂµÄ·ÖÖ§£º
+    ```bash
+    git checkout -b feature/your-feature
+    ```
+3. Ìá½»ÄãµÄ¸ü¸Ä£º
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. ÍÆËÍµ½·ÖÖ§£º
+    ```bash
+    git push origin feature/your-feature
+    ```
+5. ´´½¨Ò»¸öPull Request¡£
+
+## Ðí¿ÉÖ¤
+
+±¾ÏîÄ¿Ê¹ÓÃMITÐí¿ÉÖ¤¡£Ïê¼û [LICENSE](LICENSE) ÎÄ¼þ¡£
