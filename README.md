@@ -1,121 +1,106 @@
 # CozeBot-WxworkPro
 
-## Ä¿Â¼
-- [ÏîÄ¿¼ò½é](#ÏîÄ¿¼ò½é)
-- [¹¦ÄÜÓëÓÅÊÆ](#¹¦ÄÜÓëÓÅÊÆ)
-  - [Í¨¹ý¿Û×ÓÆ½Ì¨ÎÞÏÞÍØÕ¹µÄÄÜÁ¦¼¯](#Í¨¹ý¿Û×ÓÆ½Ì¨ÎÞÏÞÍØÕ¹µÄÄÜÁ¦¼¯)
-  - [·á¸»µÄÊý¾ÝÔ´](#·á¸»µÄÊý¾ÝÔ´)
-  - [³Ö¾Ã»¯µÄ¼ÇÒäÄÜÁ¦](#³Ö¾Ã»¯µÄ¼ÇÒäÄÜÁ¦)
-  - [Áé»îµÄ¿Û×Ó¹¤×÷Á÷¼¯³É](#Áé»îµÄ¿Û×Ó¹¤×÷Á÷¼¯³É)
-- [°²×°Ö¸ÄÏ](#°²×°Ö¸ÄÏ)
-- [Ê¹ÓÃËµÃ÷](#Ê¹ÓÃËµÃ÷)
-- [¹±Ï×Ö¸ÄÏ](#¹±Ï×Ö¸ÄÏ)
-- [Ðí¿ÉÖ¤](#Ðí¿ÉÖ¤)
+## ç›®å½•
+- [é¡¹ç›®ç®€ä»‹](#é¡¹ç›®ç®€ä»‹)
+- [åŠŸèƒ½ä¸Žä¼˜åŠ¿](#åŠŸèƒ½ä¸Žä¼˜åŠ¿)
+  - [é€šè¿‡æ‰£å­å¹³å°æ— é™æ‹“å±•çš„èƒ½åŠ›é›†](#é€šè¿‡æ‰£å­å¹³å°æ— é™æ‹“å±•çš„èƒ½åŠ›é›†)
+  - [ä¸°å¯Œçš„æ•°æ®æº](#ä¸°å¯Œçš„æ•°æ®æº)
+  - [æŒä¹…åŒ–çš„è®°å¿†èƒ½åŠ›](#æŒä¹…åŒ–çš„è®°å¿†èƒ½åŠ›)
+  - [çµæ´»çš„æ‰£å­å·¥ä½œæµé›†æˆ](#çµæ´»çš„æ‰£å­å·¥ä½œæµé›†æˆ)
+- [å®‰è£…æŒ‡å—](#å®‰è£…æŒ‡å—)
+- [ä½¿ç”¨è¯´æ˜Ž](#ä½¿ç”¨è¯´æ˜Ž)
+- [è´¡çŒ®æŒ‡å—](#è´¡çŒ®æŒ‡å—)
+- [è®¸å¯è¯](#è®¸å¯è¯)
 
-## ÏîÄ¿¼ò½é
+## é¡¹ç›®ç®€ä»‹
 
-CozeBot-WxworkPro ÊÇÒ»¸ö¼¯³ÉÁËAIÓ¦ÓÃ¿ª·¢Æ½Ì¨¡°¿Û×Ó¡±µÄÆóÒµÎ¢ÐÅ½Å±¾£¬ÄÜ¹»¿ìËÙ¹¹½¨»ùÓÚ´óÄ£ÐÍµÄ¸÷ÖÖBot£¬×Ô¶¯´¦ÀíÆóÒµÎ¢ÐÅÖÐµÄÏûÏ¢£¬Ìá¸ß¹¤×÷Ð§ÂÊ¡£
+CozeBot-WxworkPro æ˜¯ä¸€ä¸ªé›†æˆäº†AIåº”ç”¨å¼€å‘å¹³å°â€œæ‰£å­â€çš„ä¼ä¸šå¾®ä¿¡è„šæœ¬ï¼Œèƒ½å¤Ÿå¿«é€Ÿæž„å»ºåŸºäºŽå¤§æ¨¡åž‹çš„å„ç§Botï¼Œè‡ªåŠ¨å¤„ç†ä¼ä¸šå¾®ä¿¡ä¸­çš„æ¶ˆæ¯ï¼Œæé«˜å·¥ä½œæ•ˆçŽ‡ã€‚
 
-## ¹¦ÄÜÓëÓÅÊÆ
+## åŠŸèƒ½ä¸Žä¼˜åŠ¿
 
-### Í¨¹ý¿Û×ÓÆ½Ì¨ÎÞÏÞÍØÕ¹µÄÄÜÁ¦¼¯
+### é€šè¿‡æ‰£å­å¹³å°æ— é™æ‹“å±•çš„èƒ½åŠ›é›†
 
-- **ÄÚÖÃ²å¼þ**£º¼¯³ÉÁË³¬¹ý60ÖÖ²å¼þ¹¤¾ß£¬°üÀ¨×ÊÑ¶ÔÄ¶Á¡¢ÂÃÓÎ³öÐÐ¡¢Ð§ÂÊ°ì¹«¡¢Í¼Æ¬Àí½âµÈ¡£±ÈÈç£¬Ê¹ÓÃÐÂÎÅ²å¼þ¿ÉÒÔ´òÔìÒ»¸öAIÐÂÎÅ²¥ÒôÔ±¡£
-- **×Ô¶¨Òå²å¼þ**£ºÖ§³Ö´´½¨×Ô¶¨Òå²å¼þ£¬½«ÒÑÓÐµÄAPIÄÜÁ¦Í¨¹ý²ÎÊýÅäÖÃ¿ìËÙ´´½¨²å¼þ¹©Botµ÷ÓÃ¡£
+- **å†…ç½®æ’ä»¶**ï¼šé›†æˆäº†è¶…è¿‡60ç§æ’ä»¶å·¥å…·ï¼ŒåŒ…æ‹¬èµ„è®¯é˜…è¯»ã€æ—…æ¸¸å‡ºè¡Œã€æ•ˆçŽ‡åŠžå…¬ã€å›¾ç‰‡ç†è§£ç­‰ã€‚æ¯”å¦‚ï¼Œä½¿ç”¨æ–°é—»æ’ä»¶å¯ä»¥æ‰“é€ ä¸€ä¸ªAIæ–°é—»æ’­éŸ³å‘˜ã€‚
+- **è‡ªå®šä¹‰æ’ä»¶**ï¼šæ”¯æŒåˆ›å»ºè‡ªå®šä¹‰æ’ä»¶ï¼Œå°†å·²æœ‰çš„APIèƒ½åŠ›é€šè¿‡å‚æ•°é…ç½®å¿«é€Ÿåˆ›å»ºæ’ä»¶ä¾›Botè°ƒç”¨ã€‚
 
-### ·á¸»µÄÊý¾ÝÔ´
+### ä¸°å¯Œçš„æ•°æ®æº
 
-- **ÖªÊ¶¿â**£ºÌá¹©¼òµ¥Ò×ÓÃµÄÖªÊ¶¿â¹¦ÄÜ¹ÜÀíºÍ´æ´¢Êý¾Ý£¬Ö§³ÖÎÄ±¾¡¢±í¸ñ¸ñÊ½µÄÊý¾ÝÉÏ´«£¬¿ÉÒÔ»ùÓÚURL»ñÈ¡ÔÚÏßÍøÒ³ÄÚÈÝºÍAPI JSONÊý¾Ý¡£
+- **çŸ¥è¯†åº“**ï¼šæä¾›ç®€å•æ˜“ç”¨çš„çŸ¥è¯†åº“åŠŸèƒ½ç®¡ç†å’Œå­˜å‚¨æ•°æ®ï¼Œæ”¯æŒæ–‡æœ¬ã€è¡¨æ ¼æ ¼å¼çš„æ•°æ®ä¸Šä¼ ï¼Œå¯ä»¥åŸºäºŽURLèŽ·å–åœ¨çº¿ç½‘é¡µå†…å®¹å’ŒAPI JSONæ•°æ®ã€‚
 
-### ³Ö¾Ã»¯µÄ¼ÇÒäÄÜÁ¦
+### æŒä¹…åŒ–çš„è®°å¿†èƒ½åŠ›
 
-- **Êý¾Ý¿â¼ÇÒäÄÜÁ¦**£ºÖ§³Ö³Ö¾Ã¼Ç×¡ÓÃ»§¶Ô»°µÄÖØÒª²ÎÊý»òÄÚÈÝ£¬ÀýÈç£¬´´½¨Ò»¸öÊý¾Ý¿â¼ÇÂ¼ÔÄ¶Á±Ê¼Ç£¬°üÀ¨ÊéÃû¡¢ÔÄ¶Á½ø¶ÈºÍ¸öÈË×¢ÊÍ¡£
+- **æ•°æ®åº“è®°å¿†èƒ½åŠ›**ï¼šæ”¯æŒæŒä¹…è®°ä½ç”¨æˆ·å¯¹è¯çš„é‡è¦å‚æ•°æˆ–å†…å®¹ï¼Œä¾‹å¦‚ï¼Œåˆ›å»ºä¸€ä¸ªæ•°æ®åº“è®°å½•é˜…è¯»ç¬”è®°ï¼ŒåŒ…æ‹¬ä¹¦åã€é˜…è¯»è¿›åº¦å’Œä¸ªäººæ³¨é‡Šã€‚
 
-### Áé»îµÄ¿Û×Ó¹¤×÷Á÷¼¯³É
+### çµæ´»çš„æ‰£å­å·¥ä½œæµé›†æˆ
 
-- **¹¤×÷Á÷¹¦ÄÜ**£º´¦ÀíÂß¼­¸´ÔÓÇÒÎÈ¶¨ÐÔÒªÇó¸ßµÄÈÎÎñÁ÷£¬°üÀ¨´óÓïÑÔÄ£ÐÍLLM¡¢×Ô¶¨Òå´úÂë¡¢ÅÐ¶ÏÂß¼­µÈ¡£ÀýÈç£¬´´½¨Ò»¸öËÑ¼¯µçÓ°ÆÀÂÛµÄ¹¤×÷Á÷»ò×«Ð´ÐÐÒµÑÐ¾¿±¨¸æµÄ¹¤×÷Á÷¡£
+- **å·¥ä½œæµåŠŸèƒ½**ï¼šå¤„ç†é€»è¾‘å¤æ‚ä¸”ç¨³å®šæ€§è¦æ±‚é«˜çš„ä»»åŠ¡æµï¼ŒåŒ…æ‹¬å¤§è¯­è¨€æ¨¡åž‹LLMã€è‡ªå®šä¹‰ä»£ç ã€åˆ¤æ–­é€»è¾‘ç­‰ã€‚ä¾‹å¦‚ï¼Œåˆ›å»ºä¸€ä¸ªæœé›†ç”µå½±è¯„è®ºçš„å·¥ä½œæµæˆ–æ’°å†™è¡Œä¸šç ”ç©¶æŠ¥å‘Šçš„å·¥ä½œæµã€‚
 
-## °²×°Ö¸ÄÏ
+## å®‰è£…æŒ‡å—
 
-1. ¿ËÂ¡±¾²Ö¿âµ½±¾µØ£º
+1. å…‹éš†æœ¬ä»“åº“åˆ°æœ¬åœ°ï¼š
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/luolin-ai/CozeBot-WxworkPro.git
     ```
 
-2. µÇÂ¼²¢´´½¨Ò»¸öBot£º
+2. ç™»å½•å¹¶åˆ›å»ºä¸€ä¸ªBotï¼š
 
-    [![µÇÂ¼´´½¨Bot](tu/img_1.png)](https://www.coze.cn/)
+    [![ç™»å½•åˆ›å»ºBot](tu/img_1.png)](https://www.coze.cn/)
 
-3. ½«´´½¨µÄBot·¢²¼£º
+3. å°†åˆ›å»ºçš„Botå‘å¸ƒï¼š
 
-    [![µã»÷·¢²¼](tu/img_2.png)](https://www.coze.cn/)
+    [![ç‚¹å‡»å‘å¸ƒ](tu/img_2.png)](https://www.coze.cn/)
 
-4. ÔÚAPIÆ½Ì¨·¢²¼£º
+4. åœ¨APIå¹³å°å‘å¸ƒï¼š
 
-    ![·¢²¼APIÆ½Ì¨](tu/img_1.png)
+    ![å‘å¸ƒAPIå¹³å°](tu/img_1.png)
 
-5. ÔÚAPIÒ³ÃæÌí¼ÓÁîÅÆ£¬½«ÁîÅÆ¸´ÖÆµ½`.env`ÎÄ¼þ£º
+5. åœ¨APIé¡µé¢æ·»åŠ ä»¤ç‰Œï¼Œå°†ä»¤ç‰Œå¤åˆ¶åˆ°`.env`æ–‡ä»¶ï¼š
 
-    ![Ñ¡ÔñÌí¼ÓÁîÅÆ](img.png)
+    ![é€‰æ‹©æ·»åŠ ä»¤ç‰Œ](img.png)
 
-6. ´´½¨²¢ÅäÖÃ `.env` ÎÄ¼þÒÔÉèÖÃ»·¾³±äÁ¿¡£ÔÚÏîÄ¿µÄ¸ùÄ¿Â¼´´½¨Ò»¸öÃûÎª `.env` µÄÎÄ¼þ£¬²¢Ìí¼ÓÒÔÏÂÄÚÈÝ£º
+6. åˆ›å»ºå¹¶é…ç½® `.env` æ–‡ä»¶ä»¥è®¾ç½®çŽ¯å¢ƒå˜é‡ã€‚åœ¨é¡¹ç›®çš„æ ¹ç›®å½•åˆ›å»ºä¸€ä¸ªåä¸º `.env` çš„æ–‡ä»¶ï¼Œå¹¶æ·»åŠ ä»¥ä¸‹å†…å®¹ï¼š
     ```plaintext
-    # Coze API ·ÃÎÊËùÐèµÄÁîÅÆºÍ»úÆ÷ÈËID
+    # Coze API è®¿é—®æ‰€éœ€çš„ä»¤ç‰Œå’Œæœºå™¨äººID
     COZE_PERSONAL_ACCESS_TOKEN=pat_X1vEBcFubKXxImZzt7q9mhoLIOoMJm9i6RBb23DZk0iZISw23SeRaKXWE7EfnK06
     COZE_BOT_ID=7366723357951492159
    
-    # ´¥·¢Bot»Ø¸´µÄ¹Ø¼ü´Ê
+    # è§¦å‘Botå›žå¤çš„å…³é”®è¯
     BOT_TRIGGER_WORD=@MyBot
    
-    # ÔÊÐíµÄÈºÁÄ°×Ãûµ¥£¬ÒÔ¶ººÅ·Ö¸ôµÄÈºIDÁÐ±í
+    # å…è®¸çš„ç¾¤èŠç™½åå•ï¼Œä»¥é€—å·åˆ†éš”çš„ç¾¤IDåˆ—è¡¨
     GROUP_CHAT_WHITELIST=your_group_chat_whitelist
 
-    # ÔÊÐíµÄË½ÁÄ°×Ãûµ¥£¬ÒÔ¶ººÅ·Ö¸ôµÄÓÃ»§IDÁÐ±í
+    # å…è®¸çš„ç§èŠç™½åå•ï¼Œä»¥é€—å·åˆ†éš”çš„ç”¨æˆ·IDåˆ—è¡¨
     PRIVATE_CHAT_WHITELIST=your_private_chat_whitelist
 
-    # ·Ç°×Ãûµ¥ÈºÁÄµÄÄ¬ÈÏÃ¿ÈÕ»¥¶¯´ÎÊýÏÞÖÆ
+    # éžç™½åå•ç¾¤èŠçš„é»˜è®¤æ¯æ—¥äº’åŠ¨æ¬¡æ•°é™åˆ¶
     DEFAULT_GROUP_LIMIT=5
 
-    # ·Ç°×Ãûµ¥Ë½ÁÄµÄÄ¬ÈÏÃ¿ÈÕ»¥¶¯´ÎÊýÏÞÖÆ
+    # éžç™½åå•ç§èŠçš„é»˜è®¤æ¯æ—¥äº’åŠ¨æ¬¡æ•°é™åˆ¶
     DEFAULT_PRIVATE_LIMIT=5
 
-    # °×Ãûµ¥ÈºÁÄµÄÃ¿ÈÕ»¥¶¯´ÎÊýÏÞÖÆ
+    # ç™½åå•ç¾¤èŠçš„æ¯æ—¥äº’åŠ¨æ¬¡æ•°é™åˆ¶
     WHITELIST_GROUP_LIMIT=10
 
-    # °×Ãûµ¥Ë½ÁÄµÄÃ¿ÈÕ»¥¶¯´ÎÊýÏÞÖÆ
+    # ç™½åå•ç§èŠçš„æ¯æ—¥äº’åŠ¨æ¬¡æ•°é™åˆ¶
     WHITELIST_PRIVATE_LIMIT=10
     ```
 
-## Ê¹ÓÃËµÃ÷
+## ä½¿ç”¨è¯´æ˜Ž
 
-1. È·±£ `.env` ÎÄ¼þÒÑ¾­ÕýÈ·ÅäÖÃ²¢±£´æ¡£
+1. ç¡®ä¿ `.env` æ–‡ä»¶å·²ç»æ­£ç¡®é…ç½®å¹¶ä¿å­˜ã€‚
 
-2. ÔËÐÐ `CozeBot-WxworkPro.exe` ³ÌÐò£º
+2. è¿è¡Œ `CozeBot-WxworkPro.exe` ç¨‹åºï¼š
     ```bash
     ./CozeBot-WxworkPro.exe
     ```
     
-3. ÔÚÆóÒµÎ¢ÐÅÖÐ£¬Ê¹ÓÃÖ¸¶¨µÄ´¥·¢´Ê£¨ÀýÈç`@MyBot`£©ÓëBot½øÐÐ½»»¥¡£
+3. åœ¨ä¼ä¸šå¾®ä¿¡ä¸­ï¼Œä½¿ç”¨æŒ‡å®šçš„è§¦å‘è¯ï¼ˆä¾‹å¦‚`@MyBot`ï¼‰ä¸ŽBotè¿›è¡Œäº¤äº’ã€‚
 
-## ¹±Ï×Ö¸ÄÏ
+## è´¡çŒ®æŒ‡å—
 
-»¶Ó­¶Ô±¾ÏîÄ¿½øÐÐ¹±Ï×£¡Çë×ñÑ­ÒÔÏÂ²½Öè£º
+æ¬¢è¿Žå¯¹æœ¬é¡¹ç›®è¿›è¡Œè´¡çŒ®ï¼è¯·éµå¾ªä»¥ä¸‹æ­¥éª¤ï¼š
 
-1. Fork±¾²Ö¿â¡£
-2. ´´½¨Ò»¸öÐÂµÄ·ÖÖ§£º
-    ```bash
-    git checkout -b feature/your-feature
-    ```
-3. Ìá½»ÄãµÄ¸ü¸Ä£º
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. ÍÆËÍµ½·ÖÖ§£º
-    ```bash
-    git push origin feature/your-feature
-    ```
-5. ´´½¨Ò»¸öPull Request¡£
+## è®¸å¯è¯
 
-## Ðí¿ÉÖ¤
-
-±¾ÏîÄ¿Ê¹ÓÃMITÐí¿ÉÖ¤¡£Ïê¼û [LICENSE](LICENSE) ÎÄ¼þ¡£
+æœ¬é¡¹ç›®ä½¿ç”¨MITè®¸å¯è¯ã€‚è¯¦è§ [LICENSE](LICENSE) æ–‡ä»¶ã€‚
