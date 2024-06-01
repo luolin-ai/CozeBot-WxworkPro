@@ -12,6 +12,7 @@
 - [贡献指南](#贡献指南)
 - [许可证](#许可证)
 - [赞助支持](#赞助支持)
+- [联系我们](#联系我们)
 - [企业微信版本下载链接](#企业微信版本下载链接)
 
 ## 项目简介
@@ -117,7 +118,6 @@
     git push origin feature/your-feature
     ```
 
-
 ## 赞助支持
 
 如果您觉得这个项目对您有帮助，欢迎打赏以支持我们的工作：
@@ -132,10 +132,22 @@
   <img src="tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" alt="赞助" width="300"/>
 </div>
 
+## 联系我们
+
+如需进一步交流和支持，欢迎扫描下方二维码加入小助手进群：
+
+<div align="center">
+  <img src="tu/wx.jpg" alt="进群" width="300"/>
+</div>
+
+## 演示
+
+想了解更多关于CozeBot-WxworkPro的功能和使用方法，请查看以下演示图片：
+
+<div align="center">
+  <img src="tu/e4bd658acde6bbaf25a866bdb644a2f.png" alt="演示" width="600"/>
+</div>
+
 ## 企业微信版本下载链接
 
 [点击这里下载企业微信最新版本](https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.22.6009.exe)
-
-## 许可证
-
-本项目使用MIT许可证。详见 [LICENSE](LICENSE) 文件。
