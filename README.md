@@ -11,10 +11,12 @@
 - [使用说明](#使用说明)
 - [贡献指南](#贡献指南)
 - [许可证](#许可证)
+- [赞助支持](#赞助支持)
+- [企业微信版本下载链接](#企业微信版本下载链接)
 
 ## 项目简介
 
-CozeBot-WxworkPro 是一个集成了AI应用开发平台“扣子”的企业微信脚本，能够快速构建基于大模型的各种Bot，自动处理企业微信中的消息，提高工作效率。
+**CozeBot-WxworkPro** 是一个集成了AI应用开发平台“扣子”的企业微信脚本，能够快速构建基于大模型的各种Bot，自动处理企业微信中的消息，提高工作效率。采用最新版本企微的安全稳定，完全集成扣子到企微。
 
 ## 功能与优势
 
@@ -56,13 +58,13 @@ CozeBot-WxworkPro 是一个集成了AI应用开发平台“扣子”的企业微
 
 5. 在API页面添加令牌，将令牌复制到`.env`文件：
 
-    ![选择添加令牌](img.png)
+    ![选择添加令牌](tu/api.png)
 
 6. 创建并配置 `.env` 文件以设置环境变量。在项目的根目录创建一个名为 `.env` 的文件，并添加以下内容：
     ```plaintext
     # Coze API 访问所需的令牌和机器人ID
-    COZE_PERSONAL_ACCESS_TOKEN=pat_X1vEBcFubKXxImZzt7q9mhoLIOoMJm9i6RBb23DZk0iZISw23SeRaKXWE7EfnK06
-    COZE_BOT_ID=7366723357951492159
+    COZE_PERSONAL_ACCESS_TOKEN=pat_XxxxxBcFubKXxImZzt7q9mhoLIOoMJm9i6RBb23DZk0iZISw23SeRaKXWE7EfnK06
+    COZE_BOT_ID=736672xxxx1492159
    
     # 触发Bot回复的关键词
     BOT_TRIGGER_WORD=@MyBot
@@ -100,6 +102,39 @@ CozeBot-WxworkPro 是一个集成了AI应用开发平台“扣子”的企业微
 ## 贡献指南
 
 欢迎对本项目进行贡献！请遵循以下步骤：
+
+1. Fork本仓库。
+2. 创建一个新的分支：
+    ```bash
+    git checkout -b feature/your-feature
+    ```
+3. 提交你的更改：
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. 推送到分支：
+    ```bash
+    git push origin feature/your-feature
+    ```
+
+
+## 赞助支持
+
+如果您觉得这个项目对您有帮助，欢迎打赏以支持我们的工作：
+
+您的赞助将用于：
+
+- **维护和更新**：确保项目持续更新和维护，修复Bug并引入新功能。
+- **服务器和基础设施**：支付服务器和相关基础设施的费用，确保Bot的高可用性和响应速度。
+- **社区支持**：创建和维护文档、教程以及用户支持，帮助更多人使用和贡献本项目。
+
+<div align="center">
+  <img src="tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" alt="赞助" width="300"/>
+</div>
+
+## 企业微信版本下载链接
+
+[点击这里下载企业微信最新版本](https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.22.6009.exe)
 
 ## 许可证
 
