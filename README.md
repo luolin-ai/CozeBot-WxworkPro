@@ -117,6 +117,11 @@
     ```bash
     git push origin feature/your-feature
     ```
+5. 打开一个 Pull Request。
+
+## 许可证
+
+本项目使用MIT许可证。详见 [LICENSE](LICENSE) 文件。
 
 ## 赞助支持
 
@@ -134,11 +139,13 @@
 
 ## 联系我们
 
-如需进一步交流和支持，欢迎扫描下方二维码加入小助手进群：
+如需进一步交流和支持，欢迎扫描下方二维码添加微信进群：
 
 <div align="center">
-  <img src="tu/wx.jpg" alt="进群" width="300"/>
+  <img src="tu/wx.jpg" alt="微信" width="300"/>
 </div>
+
+也可以通过微信给我们留言"扣子"获取更多信息。
 
 ## 演示
 
