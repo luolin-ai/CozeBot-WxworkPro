@@ -1,3 +1,30 @@
+# CozeBot-WxworkPro 停止维护说明
+
+亲爱的用户，
+
+非常感谢您一直以来对 CozeBot-WxworkPro 的支持和厚爱。由于个人精力有限和资源的重新分配，我们遗憾地通知您，我们决定停止维护 CozeBot-WxworkPro。以下是具体的安排：
+
+## 停止维护时间
+
+- **停止维护日期**：2024年8月31日
+- 自此日期起，我们将不再提供任何形式的技术支持、功能更新或安全补丁。
+
+## 影响范围
+
+- 所有现有的 CozeBot-WxworkPro 用户
+- 所有与 CozeBot-WxworkPro 相关的服务
+
+## 用户指导
+
+为了确保业务的连续性，请尽早备份数据，并考虑迁移到我们的新产品或其他类似服务。我们的技术支持团队将在停止维护之前继续为您提供必要的帮助和支持。
+
+## 企业微信替代方案
+
+如需企业微信相关功能，请移步 [Enterprise WeChat GPTbot](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot)。
+
+感谢您的理解与支持。
+
+
 # CozeBot-WxworkPro
 
 ## 目录
